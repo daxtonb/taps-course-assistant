@@ -59,7 +59,7 @@ Array.from(ctx.querySelectorAll("button.blocks-tabs__header-item")).forEach(
   (x) => x.click()
 );
 
-// Dumbass videos that aren't HTML video players
+// Handle videos that aren't HTML video players
 if (!window.infiniteNext) {
   window.infiniteNext = () => {
     // Just infinitely smash the "Next" button
