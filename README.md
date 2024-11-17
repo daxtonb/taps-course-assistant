@@ -36,8 +36,8 @@
 ### VA Benefits and Services
 
 1. Open a lesson
-2. Execute the script using the instruction sin the **How to Run the Script** section below. This will repeatedly click the "Next" button at a frequency of 1 second.
-3. There's no easy way around this course. Find something else to do and script will repeatedly click the "Next" button when it becomes available at the end of each video. There are a few pages with interactive content or quizzes that will require your intervention, so check back periodically to see if it's waiting for you to intervene.
+2. Execute the script using the instructions in the **How to Run the Script** section below. This will repeatedly click the "Next" button at a frequency of 1 second.
+3. There's no easy way around this course. Find something else to do while the script continuously clicks the "Next" button until it becomes available at the end of each video. There are a few pages with interactive content or quizzes that will require your intervention, so check back periodically to see if it's waiting for you to intervene. Otherwise, the script will do the course for you.
 
 ### Wounded Warrior and Caregiver EFCT
 
