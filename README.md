@@ -13,7 +13,8 @@
 4. The disabled button from **Step 1** should now be enabled. Click on it
 5. Repeat **Steps 1-4** until the course is completed
 
-> [!NOTE] > \*The only thing I couldn't automate was handling the carousel/slide show components. You'll have to manually click the right-arrow button to get to the end of the slideshow. You will also need to manually take the quizzes, and you won't be able to continue until you've achieved a passing score
+> [!NOTE]
+> \*The only thing I couldn't automate was handling the carousel/slide show components. You'll have to manually click the right-arrow button to get to the end of the slideshow. You will also need to manually take the quizzes, and you won't be able to continue until you've achieved a passing score
 
 ### Financial Planning for Transition
 
@@ -38,7 +39,7 @@
 2. Execute the script using the instruction sin the **How to Run the Script** section below. This will repeatedly click the "Next" button at a frequency of 1 second.
 3. There's no easy way around this course. Find something else to do and script will repeatedly click the "Next" button when it becomes available at the end of each video. There are a few pages with interactive content or quizzes that will require your intervention, so check back periodically to see if it's waiting for you to intervene.
 
-### Wounded Warrior and Caregiver (EFCT)
+### Wounded Warrior and Caregiver EFCT
 
 (Same instructions as **Employment Fundamentals of Career Transition (EFCT)**)
 
