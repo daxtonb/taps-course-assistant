@@ -21,7 +21,7 @@
 1. Open a lesson
 2. With the lesson window loaded, click the "Play" button to start the "Introduction" video
 3. Continue to the next slide
-4. Execute the script using the instruction sin the **How to Run the Script** section below. This will permanently enable the "Next" button
+4. Execute the script using the instructions in the **How to Run the Script** section below. This will permanently enable the "Next" button
 5. Continuously click the "Next" button until you reach the end of the lesson. Close the window to receive credit for the lesson.
 6. Repeat **Steps 1-5** for each lesson
 
